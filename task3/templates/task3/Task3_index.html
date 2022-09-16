@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task3</title>
+</head>
+<body>
+<!-- respond dictonary passed contains a key called locaton which contains the wheather data of a city in a form of a dictonary -->
+<!-- . (period) will be used to access the inner of content of the key-->
+    <h1>Name = {{location.name}}</h1>
+    <table border="1">
+    <tr>
+        <th>name</th>
+        <th>region</th>
+        <th>country</th>
+        <th>tz_id</th>
+        <th>localtime</th>
+        <th>lat</th>
+        <th>lon</th>
+        <th>last_updated</th>
+        <th>temp_c</th>
+        <th>humidity</th>
+        <th>feelslike_c</th>
+        <th>wind_dir</th>
+    </tr>
+    <tr>
+        <td>{{location.name}}</td>
+        <td>{{location.region}}</td>
+        <td>{{location.country}}</td>
+        <td>{{location.tz_id}}</td>
+        <td>{{location.localtime}}</td>
+        <td>{{location.lat}}</td>
+        <td>{{location.lon}}</td>
+        <td>{{current.last_updated}}</td>
+        <td>{{current.temp_c}}</td>
+        <td>{{current.humidity}}</td>
+        <td>{{current.feelslike_c}}</td>
+        <td>{{current.wind_dir}}</td>
+    </tr>
+    </table>
+<!--This will output the data in a form of a table-->   
+</body>
+</html>
