@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DB_FETCHED</title>
+</head>
+<body> 
+<table border="1">
+    <tr>
+        <th>name</th>
+        <th>region</th>
+        <th>country</th>
+        <th>tz_id</th>
+        <th>localtime</th>
+        <th>lat</th>
+        <th>lon</th>
+        <th>last_updated</th>
+        <th>temp_c</th>
+        <th>humidity</th>
+        <th>feelslike_c</th>
+        <th>wind_dir</th>
+    </tr>
+    {% for i in d %}
+    <tr>
+        <td>{{i.name}}</td>
+        <td>{{i.region}}</td>
+        <td>{{i.country}}</td>
+        <td>{{i.tz_id}}</td>
+        <td>{{i.localtime}} </td>
+        <td>{{i.lat}}</td>
+        <td>{{i.lon}}</td>
+        <td>{{i.last_updated}}</td>
+        <td>{{i.temp_c}}</td>
+        <td>{{i.humidity}}</td>
+        <td>{{i.feelslike_c}}</td>
+        <td>{{i.wind_dir}}</td>
+    </tr>
+    {% endfor %}
+</table>   
+</body>
+</html>
