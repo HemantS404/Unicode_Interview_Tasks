@@ -45,8 +45,10 @@ have 3 functionality :
 ![Screenshot (74)](https://user-images.githubusercontent.com/101858977/190724871-bff0bdfb-c2a3-48de-adfe-dff69b88737f.png)
 
 3. To render out the Top 3 most Searched city (Typing /task4/top_3)
+
 ![Screenshot (75)](https://user-images.githubusercontent.com/101858977/190724911-d82a02d0-6204-4ba3-b58e-05a6876c4fc6.png)
 
 ---
 ## The database
+
 ![Screenshot (77)](https://user-images.githubusercontent.com/101858977/190725533-8c66feb6-910e-4d7c-bfee-a13cc7f90465.png)
