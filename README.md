@@ -37,9 +37,11 @@ have 3 functionality :
 ![Screenshot (71)](https://user-images.githubusercontent.com/101858977/190724598-e4a3485d-fc14-4abe-95eb-c3b33ce76e8a.png)
 
 2. To Search for a set of elements having same field value enterd by user (Typing /task4/Field_input )
-![Screenshot (74)](https://user-images.githubusercontent.com/101858977/190724112-72e1d9b0-ca05-46d0-bc7d-190bf7f5c3e0.png)
+
 ![Screenshot (72)](https://user-images.githubusercontent.com/101858977/190724085-f4181e95-b2be-4280-be25-85e607f0ea5d.png)
+
 ![Screenshot (73)](https://user-images.githubusercontent.com/101858977/190724104-49214408-8919-4cbf-843f-7ab82119730a.png)
+
 ![Screenshot (74)](https://user-images.githubusercontent.com/101858977/190724871-bff0bdfb-c2a3-48de-adfe-dff69b88737f.png)
 
 3. To render out the Top 3 most Searched city (Typing /task4/top_3)
