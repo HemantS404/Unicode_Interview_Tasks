@@ -4,6 +4,9 @@
 ## Ouput of the task 1
 ![Screenshot (62)](https://user-images.githubusercontent.com/101858977/190718121-ea94912a-de8b-4091-ab88-670520231d9e.png)
 
+![Screenshot (78)](https://user-images.githubusercontent.com/101858977/190895300-773ce2c6-9eb7-49ef-9db4-d596fae5a0e8.png)
+
+![Screenshot (79)](https://user-images.githubusercontent.com/101858977/190895303-21fbd271-2540-45d9-899c-7c7bf83548be.png)
 ---
 ## After running the server
 ![Screenshot (63)](https://user-images.githubusercontent.com/101858977/190718128-95bcca99-4eb5-4565-b95f-da31a565faea.png)
