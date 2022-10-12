@@ -13,7 +13,7 @@ def index_task3(request):                                                     #t
     url = "https://weatherapi-com.p.rapidapi.com/current.json"                
     querystring = {"q": city}
     headers = {
-	"X-RapidAPI-Key": "a5e5a759aemshc162066ebc55c0dp18b555jsn6dc327404420",
+	"X-RapidAPI-Key": "KEY",
 	"X-RapidAPI-Host": "weatherapi-com.p.rapidapi.com"
     }
     respond = requests.request("GET", url, headers=headers, params=querystring)         #requesting the data from the server through a wheather-API
